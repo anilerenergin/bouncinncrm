@@ -4,6 +4,7 @@ import createNextIntlPlugin from "next-intl/plugin";
 const nextConfig: NextConfig = {
     output: "export",
     basePath: "/bouncinncrm",
+    trailingSlash: true,
     images: {
         unoptimized: true,
         remotePatterns: [
