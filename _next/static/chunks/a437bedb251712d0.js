@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,50294,i=>{"use strict";var r=i.i(43476),e=i.i(5426),t=i.i(30909),d=i.i(19448);function s({children:i}){return(0,r.jsx)(d.AuthGuard,{children:(0,r.jsxs)(t.SidebarProvider,{children:[(0,r.jsx)(e.AppSidebar,{}),i]})})}i.s(["default",()=>s])}]);
